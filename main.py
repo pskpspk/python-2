@@ -22,3 +22,4 @@ elif marks>35:
 else:
     print ("better luck next time!")
     print("you failed the exam, Marks:",marks)
+input ();
